@@ -1,4 +1,4 @@
-## Neste repositório tem meus estudos e Projetos em PHP**
+## Neste Repositório demonstro meus estudos e projetos em PHP**
 
 ---
 
